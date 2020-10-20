@@ -24,7 +24,7 @@ const OnboardindScreen = ({navigation}) => {
           backgroundColor: '#e9bcbe',
           image: <Image source={require('../assets/onboarding-img3.png')} />,
           title: 'Become The Star',
-          subtitle: 'Let The Spot Light Be On You',
+          subtitle: 'Let The Spot Light Be On You!',
         },
       ]}
     />
