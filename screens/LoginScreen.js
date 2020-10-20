@@ -57,7 +57,7 @@ const LoginScreen = ({navigation}) => {
         style={styles.forgotButton}
         onPress={() => navigation.navigate('Signup')}>
         <Text style={styles.navButtonText}>
-          Don't Have An Account? Creat Here
+          Don't Have An Account? Create One Here
         </Text>
       </TouchableOpacity>
     </View>
